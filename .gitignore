@@ -1,0 +1,10 @@
+.idea/
+.vs/
+data/
+int_tl/data/
+output/
+saved_models/
+.ipynb_checkpoints/
+__pycache__
+*/~$*.xlsx
+attributionpriors/
